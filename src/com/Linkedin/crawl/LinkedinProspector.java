@@ -32,7 +32,7 @@ public class LinkedinProspector {
 		 Thread.sleep(20000);
 		 
 		 //Required user details by using the user url
-		 url = "https://www.linkedin.com/in/thileepans/";
+		 url = "https://www.linkedin.com/in/USER_PROFILE_NAME/";
 		 System.out.println("Navigated to persons profile.....");
 		 driver.navigate().to(url);
 		 Thread.sleep(20000);
